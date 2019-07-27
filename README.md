@@ -1,4 +1,20 @@
-This awesome list was UNMAINTAINED. move forward to new **bi-weekly-reports**: [PerfXLab/embedded_ai](https://github.com/PerfXLab/embedded_ai).
+![img](./wechat_qrcode.jpg)
+
+Wechat ID: NeuroMem
+
+# Embedded-AI-Report
+
+关注模型压缩、低比特量化、移动端推理加速优化、部署
+
+- [2019-07-30](./embedded-ai-report/2019-07-30.md)  
+- [2019-07-15](./embedded-ai-report/2019-07-15.md)  
+- [2019-06-29](./embedded-ai-report/2019-06-29.md)  
+- [2019-06-17](./embedded-ai-report/2019-06-17.md)  
+- [2019-05-30](./embedded-ai-report/2019-05-30.md)  
+- [2019-05-15](./embedded-ai-report/2019-05-15.md)  
+- [2019-04-27](./embedded-ai-report/2019-04-27.md)  
+- [2019-04-13](./embedded-ai-report/2019-04-13.md)  
+- [2019-03-31](./embedded-ai-report/2019-03-31.md)  
 
 
 
@@ -30,6 +46,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 
 ## Contents
 
+- [Device Benchmark](#devicebenchmark)
 - [Papers](#papers)  
   - [Classic](#classic)
   - [Overview](#overview)
@@ -55,6 +72,14 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
   - [GPU](#gpu)
 - [Company](#company)
 - [News](#news)
+
+# Device Benchmark
+
+- [高通骁龙处理器排行榜,强大性能一览无余 | Qualcomm](https://www.qualcomm.cn/snapdragon/processors/comparison)
+- [手机CPU性能天梯图 CPU performance of mobile comparison | mydriver](http://www.mydrivers.com/zhuanti/tianti/01/)
+- Qualcomm Adreno GPU Performance as below:
+
+![adreno_gpu_performance](./device_benchmark/qualcomm_adreno_gpu_benchmark.png)
 
 # Papers
 
@@ -259,6 +284,7 @@ Please check the <a href="https://github.com/ysh329/Embedded-AI-awesome/blob/mas
 * [mil-tokyo/webdnn: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 * [jiaxiang-wu/quantized-cnn: An efficient framework for convolutional neural networks](https://github.com/jiaxiang-wu/quantized-cnn)
 * [Tencent/ncnn: ncnn is a high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn)
+* [JDAI-CV/dabnn: dabnn is an accelerated binary neural networks inference framework for mobile platform](https://github.com/JDAI-CV/dabnn)
 
 - [Darknet with NNPACK: NNPACK was used to optimize Darknet without using a GPU. It is useful for embedded devices using ARM CPUs](https://github.com/thomaspark-pkj/darknet-nnpack)  
 - [naibaf7/libdnn: Greentea LibDNN - a universal convolution implementation supporting CUDA and OpenCL](https://github.com/naibaf7/libdnn)  
